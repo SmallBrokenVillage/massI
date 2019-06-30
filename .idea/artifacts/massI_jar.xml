@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="massI.jar">
+    <output-path>$USER_HOME$/Documents/Minecraft/BukkitServer/Spigot/plugins</output-path>
+    <root id="archive" name="massI.jar">
+      <element id="module-output" name="massI" />
+    </root>
+  </artifact>
+</component>

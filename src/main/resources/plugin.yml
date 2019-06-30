@@ -1,0 +1,7 @@
+name: massI
+version: 1.0
+main: com.seybox.massi.massI
+commands:
+  listtime:
+    description: "显示在线玩家的累计在线时间"
+    usage: /listtime
